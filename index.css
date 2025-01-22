@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+color: red;
+}
+.main {
+	font-weight: bold;
+	text-align: center;
+	background-color: yellow;
+}
+#about {
+	font-weight: bold;
+	color: brown;
+}
+aside {
+	font-family : cursive;
+}
+.rights {
+	font-family: verdana;
+	font-size: 30px;
+}
+#div1, #div2, #div3 {
+	text-align: center;
+}
+#div1 {
+	height: 50px;
+	width: 50px;
+	background-color: green;
+}
+#div2 {
+	height: 60px;
+	width: 60px;
+	background-color: yellow;
+}
+#div3 {
+	height: 70px;
+	width: 70px;
+	background-color: red;
+}
+
+	
